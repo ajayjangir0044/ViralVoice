@@ -1714,6 +1714,8 @@ margin-top: -200px !important;
 
     #Application p {
         line-height: 2;
+        font-family: 'Montserrat',sans-serif !important;
+    font-size: 13px !important;
     }
 
     #audition,
@@ -1952,8 +1954,11 @@ margin-top: -200px !important;
         margin-left: 30px;
     }
 
+
+    
+
     .grid-item p {
-        font-family: poppins, Arial, Helvetica, sans-serif;
+        font-family: 'Montserrat',sans-serif;
         font-size: 11px;
         margin-top: 20px;
         width: 100%;
