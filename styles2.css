@@ -1772,6 +1772,8 @@ margin-top: -200px !important;
     article {
         padding-top: 10px !important;
         padding-bottom: 0px !important;
+        font-family: 'Montserrat',sans-serif !important;
+        font-size: 1rem;
     }
 
     #organise {
